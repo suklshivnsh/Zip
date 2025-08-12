@@ -1,0 +1,1 @@
+1. Will add feature to upload to a specified chat ID (dump channel)\n2. Will implement custom thumbnail setting via /t command\n3. Will add progress bar with ETA that updates every 5 seconds during uploads\n4. The updated code will be pushed shortly
