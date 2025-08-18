@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+aiohttp
+aiofiles
+ffmpeg-python
+python-magic
+requests
